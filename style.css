@@ -119,9 +119,11 @@ li {
 
 .total-price {
 font-size: 20px;
-display: flex;
-justify-content: center;
 margin-bottom: 20px;
 padding: 5px;
+}
 
+.cifrao {
+margin-left: 200px;
+padding-bottom: 15px;
 }
